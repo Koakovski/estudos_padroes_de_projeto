@@ -1,7 +1,11 @@
 {
   "description": "",
   "devDependencies": {
+    "@types/validator": "^13.11.9",
     "ts-node": "^10.9.2",
     "typescript": "^5.3.3"
+  },
+  "dependencies": {
+    "validator": "^13.11.0"
   }
 }
